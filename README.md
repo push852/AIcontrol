@@ -8,21 +8,23 @@
 경상남도 의창구 소답동 거주 중
 2000.01.14 양력 23세(만 22세) 용띠
 
+취득한 자격증
+16405170013U 컴퓨터응용선반기능사 
+17400171484R	
+
 직업 
 창원 폴리텍 학생으로 현생을 살아가고있습니다
-
-취미
-게임 맛있는거먹기 배드민턴 볼링 같이 활동적인것들을 즐겨합니다
 
 앞으로의 소망
 남은 학교생활을 다녀줄 미래의 "내"가 시험공부랑 자격증공부를 하여서 무사히 졸업 취업을 하는것이 
 현 목표라고 생각합니다
 
 
-####                                                                    즐겨하는 게임
+####                                                                    즐겨하는 취미
 
 <a href="https://www.op.gg/summoners/kr/%EB%82%98%EC%97%B058" target="_blank"><img src="https://img.shields.io/badge/LOL LOL!!-E4405F?style=flat-square&logo=Riot Games&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/폴가이즈-00000?style=flat-square&logo=Epic Games&logoColor=white"/>
+<img src="https://img.shields.io/badge/넷플릭스-FF0000?style=flat-square&logo=Netflix&logoColor=white"/>
 
 #####                                                                 눈팅만하는SNS계정들
 
