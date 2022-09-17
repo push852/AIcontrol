@@ -1,5 +1,5 @@
 # AIcontrol
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=텍스트&fontSize=200)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=학점은 사랑입니다&fontSize=100)
 
 ## 나의 첫번째 마크다운 파일입니다
 
