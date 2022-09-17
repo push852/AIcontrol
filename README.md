@@ -7,9 +7,12 @@
 
 직업: 창원 폴리텍 학생으로 현생을 살아가는중
 
-###즐겨하는 게임
+### 즐겨하는 게임
+
 <a href="https://www.op.gg/summoners/kr/%EB%82%98%EC%97%B058" target="_blank"><img src="https://img.shields.io/badge/LOL LOL!!-E4405F?style=flat-square&logo=Riot Games&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/폴가이즈-00000?style=flat-square&logo=Epic Games&logoColor=white"/>
-####구경만하는SNS 계정들
+
+#### 구경만하는SNS계정들
+
 <a href="https://www.instagram.com/gu_gubin/" target="_blank"><img src="https://img.shields.io/badge/GU stagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/profile.php?id=100007931741322" target="_blank"><img src="https://img.shields.io/badge/face book-4EE3C2?style=flat-square&logo=Facebook&logoColor=white"/></a>
