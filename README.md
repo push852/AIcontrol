@@ -28,7 +28,7 @@
 <a href="https://www.instagram.com/gu_gubin/" target="_blank"><img src="https://img.shields.io/badge/GU stagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/profile.php?id=100007931741322" target="_blank"><img src="https://img.shields.io/badge/face book-4EE3C2?style=flat-square&logo=Facebook&logoColor=white"/></a>
 
-(http://mazassumnida.wtf/api/v2/generate_badge?boj=push852)](https://solved.ac/push852)
+(http://mazassumnida.wtf/api/v2/generate_badge?boj=naoun852@gmail.com)](https://solved.ac/naoun852@gmail.com)
 
 
 
