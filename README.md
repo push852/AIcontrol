@@ -1,5 +1,5 @@
 # AIcontrol
-![header](https://capsule-render.vercel.app/api?type=sharking&color=auto&height=100&section=header&text=Gu stagram&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waveing&color=auto&height=100&section=header&text=Gu stagram&fontSize=50)
 
 ## 나의 첫번째 마크다운 파일입니다
                                 
