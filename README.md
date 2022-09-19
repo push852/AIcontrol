@@ -1,5 +1,5 @@
 # AIcontrol
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=80&section=header&text=Gu stagram&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=80&section=header&text=Gustagram&fontSize=50)
 
 ## 나의 첫번째 마크다운 파일입니다
                                 
@@ -40,4 +40,4 @@
 ###### 방문자 수
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpush852%2FAIcontrol%2Fedit%2Fmain%2FREADME.md&count_bg=%2379C83D&title_bg=%23555555&icon=actigraph.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)"/></a>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
