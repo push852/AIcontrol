@@ -1,5 +1,5 @@
 # AIcontrol
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=80&section=header&text=Gustagram&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=100&section=header&text=Gustagram&fontSize=50)
 
 ## 나의 첫번째 마크다운 파일입니다
                                 
