@@ -33,7 +33,6 @@
 ***
 ###### 나의 계정 평가
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=push852)](https://github.com/push852/github-readme-stats)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
 ***
 ###### 나의 모스트 단어 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=push852)](https://github.com/push852/github-readme-stats)
