@@ -42,5 +42,6 @@
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
-
+###### 2022/09/21 
+* 데이터함수 과제 완료!!
 <a href="https://github.com/push852/Data-type-" target="_blank"><img src="https://img.shields.io/badge/코드함수-EF4223?style=flat-square&logo=CodeIgniter&logoColor=white"/></a>
