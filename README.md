@@ -43,4 +43,4 @@
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
 
-<a href="https://github.com/push852/Data-type-" target="_blank"><img src="https://img.shields.io/badge/CodeFactor-EF4223?style=flat-square&logo=CodeIgniter&logoColor=white"/></a>
+<a href="https://github.com/push852/Data-type-" target="_blank"><img src="https://img.shields.io/badge/-EF4223?style=flat-square&logo=CodeIgniter&logoColor=white"/></a>
