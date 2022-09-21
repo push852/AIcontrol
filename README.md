@@ -42,6 +42,8 @@
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
-<a href="https://www.facebook.com/profile.php?id=100007931741322" target="_blank"><img src="https://img.shields.io/badge/face book-4EE3C2?style=flat-square&logo=Facebook&logoColor=white"/></a>
 
+<a href="https://github.com/push852/Data-type-" target="_blank"><img src="https://img.shields.io/badge/CodeFactor-EF4223?style=flat-square&logo=Facebook&logoColor=white"/></a>
+
+https://github.com/push852/Data-type-
 CodeFactor
