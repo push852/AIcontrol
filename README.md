@@ -43,7 +43,4 @@
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
 
-<a href="https://github.com/push852/Data-type-" target="_blank"><img src="https://img.shields.io/badge/CodeFactor-EF4223?style=flat-square&logo=Facebook&logoColor=white"/></a>
-
-https://github.com/push852/Data-type-
-CodeFactor
+<a href="https://github.com/push852/Data-type-" target="_blank"><img src="https://img.shields.io/badge/CodeFactor-EF4223?style=flat-square&logo=코드함수&logoColor=white"/></a>
